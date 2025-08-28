@@ -45,5 +45,5 @@ print("WHAT")
 ```
 
 ```{r}
-print("chinnga a tu madre")
+print("chinga a tu madre")
 ```
