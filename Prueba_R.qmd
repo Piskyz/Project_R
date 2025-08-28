@@ -43,3 +43,7 @@ print("adios")
 ```{r}
 print("WHAT")
 ```
+
+```{r}
+print("chinnga a tu madre")
+```
